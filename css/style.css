@@ -1,0 +1,33 @@
+body {
+    padding: 0;
+    margin: 0;
+    background: #0a0807;
+    color: #fbf8f2;
+    font-family: "Sorts Mill Goudy", Georgia, serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.main-content {
+    width: 100%;
+    max-width: 1400px;
+    margin: auto;
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.tablet {
+    display: none;
+}
+
+.upper-bold {
+    text-transform: uppercase;
+    font-weight: bold;
+}
